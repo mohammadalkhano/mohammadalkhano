@@ -1,0 +1,29 @@
+{
+  "about": [
+    "I'm pursuing a BEng in Computer Engineering at Karlstad University, building on hands-on professional experience in C#, .NET, Git, and React.js. My coursework spans systems development, embedded systems, cybersecurity, and sustainable IT.",
+    "I work day to day in a Linux environment, and I care about building solutions that are efficient, scalable, and genuinely useful — combining practical development experience with a growing academic foundation."
+  ],
+  "education": [
+    { "school": "Karlstad University", "detail": "BEng, Computer Engineering · 2025–2028" },
+    { "school": "Campus Mölndal", "detail": "Advanced Higher Vocational Ed., .NET & Web Developer · 2020–2022" }
+  ],
+  "skills": [
+    {
+      "label": "languages",
+      "tags": [
+        { "name": "C#", "accent": true },
+        { "name": "JavaScript" },
+        { "name": "TypeScript" },
+        { "name": "HTML / CSS" }
+      ]
+    },
+    {
+      "label": "frameworks & platforms",
+      "tags": [{ "name": ".NET", "accent": true }, { "name": "React.js" }]
+    },
+    {
+      "label": "tools & environment",
+      "tags": [{ "name": "Git" }, { "name": "Linux", "accent": true }]
+    }
+  ]
+}
