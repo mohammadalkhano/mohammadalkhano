@@ -1,7 +1,7 @@
 {
   "stats": [
     { "value": "1+", "label": "YRS DEV EXPERIENCE" },
-    { "value": "C#/.NET", "label": "PRIMARY STACK" },
+    { "value": "C#/.NET, React, Python", "label": "PRIMARY STACK" },
     { "value": "2028", "label": "EXPECTED GRADUATION" },
     { "value": "LINUX", "label": "DAILY DRIVER" }
   ],
@@ -25,7 +25,7 @@
       "company": "Xamera AB",
       "period": "Feb 2023 – Sep 2023",
       "description": "Built an order management system in C#/.NET that handles internal logistics and automates conveyor belts and robots, making sure every step happens in the right order.",
-      "tech": ["C#", ".NET, React, Python"]
+      "tech": ["C#", ".NET"]
     },
     {
       "role": "Web Developer (Internship)",
