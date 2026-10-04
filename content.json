@@ -6,35 +6,32 @@
     { "value": "LINUX", "label": "DAILY DRIVER" }
   ],
   "about": [
-    "I'm pursuing a BEng in Computer Engineering at Karlstad University, building on
-hands-on professional experience in C#, .NET, Git, and React.js. My coursework spans
-systems development, embedded systems, and sustainable IT.",
-    "I work day to day in a Linux environment, and I care about building solutions that
-are efficient, scalable, and genuinely useful — combining practical development experience
-with a growing academic foundation."
+    "I'm pursuing a BEng in Computer Engineering at Karlstad University, building on hands-on professional experience in C#, .NET, Git, and React.js. My coursework spans systems development, embedded systems,  and sustainable IT.",
+    "I work day to day in a Linux environment, and I care about building solutions that are efficient, scalable, and genuinely useful — combining practical development experience with a growing academic foundation."
   ],
   "education": [
-    { "school": "Karlstad Univputer Engineering — Software
-Engineering & Data Communicati
-    { "school": "Campus Mölndar Vocational Ed., .NET & Web
-Developer · 2020–2022" }
+    {
+      "school": "Karlstad University",
+      "detail": "BEng, Computer Engineering — Software Engineering & Data Communication · 2025–2028"
+    },
+    {
+      "school": "Campus Mölndal",
+      "detail": "Advanced Higher Vocational Ed., .NET & Web Developer · 2020–2022"
+    }
   ],
   "experience": [
     {
-      "role": "System Develope
+      "role": "System Developer",
       "company": "Xamera AB",
       "period": "Feb 2023 – Sep 2023",
-      "description": "Built an#/.NET that handles internal
-logistics and automates conveyure every step happens in the
-right order.",
-      "tech": ["C#", ".NET"]
+      "description": "Built an order management system in C#/.NET that handles internal logistics and automates conveyor belts and robots, making sure every step happens in the right order.",
+      "tech": ["C#", ".NET, React, Python"]
     },
     {
-      "role": "Web Developer (
+      "role": "Web Developer (Internship)",
       "company": "Ortoma AB",
-      "period": "Jan 2022 – Ju
-      "description": "Built a web-based internal tool with .NET, Entity Framework,
-TypeScript and React.",
+      "period": "Jan 2022 – Jun 2022",
+      "description": "Built a web-based internal tool with .NET, Entity Framework, TypeScript and React.",
       "tech": [".NET", "Entity Framework", "TypeScript", "React"]
     }
   ],
@@ -42,8 +39,8 @@ TypeScript and React.",
     {
       "label": "languages",
       "tags": [
-        { "name": "C#", "accen
-        { "name": "TypeScript"
+        { "name": "C#", "accent": true },
+        { "name": "TypeScript" },
         { "name": "JavaScript" },
         { "name": "Python" },
         { "name": "SQL" },
@@ -53,13 +50,13 @@ TypeScript and React.",
     {
       "label": "frameworks & platforms",
       "tags": [
-        { "name": ".NET", "acc
-        { "name": "Entity Fram
+        { "name": ".NET", "accent": true },
+        { "name": "Entity Framework" },
         { "name": "React.js" }
       ]
     },
     {
-      "label": "tools & practi
+      "label": "tools & practices",
       "tags": [
         { "name": "Git" },
         { "name": "Linux", "accent": true },
