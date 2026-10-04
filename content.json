@@ -4,26 +4,68 @@
     "I work day to day in a Linux environment, and I care about building solutions that are efficient, scalable, and genuinely useful — combining practical development experience with a growing academic foundation."
   ],
   "education": [
-    { "school": "Karlstad University", "detail": "BEng, Computer Engineering · 2025–2028" },
-    { "school": "Campus Mölndal", "detail": "Advanced Higher Vocational Ed., .NET & Web Developer · 2020–2022" }
+    {
+      "school": "Karlstad University",
+      "detail": "BEng, Computer Engineering — Software Engineering & Data Communication · 2025–2028"
+    },
+    {
+      "school": "Campus Mölndal",
+      "detail": "Advanced Higher Vocational Ed., .NET & Web Developer · 2020–2022"
+    }
+  ],
+  "experience": [
+    {
+      "role": "System Developer",
+      "company": "Xamera AB",
+      "period": "Feb 2023 – Sep 2023",
+      "description": "Built an order management system in C#/.NET that handles internal logistics and automates conveyor belts and robots, making sure every step happens in the right order.",
+      "tech": ["C#", ".NET"]
+    },
+    {
+      "role": "Web Developer (Internship)",
+      "company": "Ortoma AB",
+      "period": "Jan 2022 – Jun 2022",
+      "description": "Built a web-based internal tool with .NET, Entity Framework, TypeScript and React.",
+      "tech": [".NET", "Entity Framework", "TypeScript", "React"]
+    }
   ],
   "skills": [
     {
       "label": "languages",
       "tags": [
         { "name": "C#", "accent": true },
-        { "name": "JavaScript" },
         { "name": "TypeScript" },
+        { "name": "JavaScript" },
+        { "name": "Python" },
+        { "name": "SQL" },
         { "name": "HTML / CSS" }
       ]
     },
     {
       "label": "frameworks & platforms",
-      "tags": [{ "name": ".NET", "accent": true }, { "name": "React.js" }]
+      "tags": [
+        { "name": ".NET", "accent": true },
+        { "name": "Entity Framework" },
+        { "name": "React.js" }
+      ]
     },
     {
-      "label": "tools & environment",
-      "tags": [{ "name": "Git" }, { "name": "Linux", "accent": true }]
+      "label": "tools & practices",
+      "tags": [
+        { "name": "Git" },
+        { "name": "Linux", "accent": true },
+        { "name": "CI/CD" },
+        { "name": "Agile" }
+      ]
+    },
+    {
+      "label": "spoken languages",
+      "tags": [
+        { "name": "Swedish" },
+        { "name": "English" },
+        { "name": "Arabic" },
+        { "name": "Turkish" }
+      ]
     }
   ]
 }
