@@ -57,15 +57,6 @@
         { "name": "CI/CD" },
         { "name": "Agile" }
       ]
-    },
-    {
-      "label": "spoken languages",
-      "tags": [
-        { "name": "Swedish" },
-        { "name": "English" },
-        { "name": "Arabic" },
-        { "name": "Turkish" }
-      ]
     }
   ]
 }
