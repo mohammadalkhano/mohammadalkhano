@@ -1,7 +1,7 @@
 {
   "stats": [
     { "value": "1+", "label": "YRS DEV EXPERIENCE" },
-    { "value": "C#/.NET, React, Python", "label": "PRIMARY STACK" },
+    { "value": "C#/.NET, Python", "label": "PRIMARY STACK" },
     { "value": "2028", "label": "EXPECTED GRADUATION" },
     { "value": "LINUX", "label": "DAILY DRIVER" }
   ],
